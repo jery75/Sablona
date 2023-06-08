@@ -1,0 +1,15 @@
+{
+  "name": "Seznam",
+  "items": [
+    {
+      "name": "kokot",
+      "parametr1": 5.0,
+      "parametr2": 2.0
+    },
+    {
+      "name": "lula",
+      "parametr1": 69.0,
+      "parametr2": 420.0
+    }
+  ]
+}
